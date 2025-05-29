@@ -1,0 +1,689 @@
+{
+  "foodMenuList": [
+    {
+      "menuName": "Main Dishes",
+      "menuDescription": "A selection of our finest main courses",
+      "menuPicPath": "images/",
+      "menuPicName": "main_dishes.jpg",
+      "menuItems": [
+        {
+          "name": "Chicken Breast",
+          "price": 14.25,
+          "vat": 0.09,
+          "fullPrice": 15.55,
+          "ingredients": [
+            {
+              "name": "Chicken Breast",
+              "amount": 1,
+              "measurement": "piece"
+            },
+            {
+              "name": "Olive Oil",
+              "amount": 2,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Salt",
+              "amount": 0.5,
+              "measurement": "teaspoon"
+            },
+            {
+              "name": "Black Pepper",
+              "amount": 0.25,
+              "measurement": "teaspoon"
+            }
+          ]
+        },
+        {
+          "name": "Beef Steak",
+          "price": 32.5,
+          "vat": 0.09,
+          "fullPrice": 35.45,
+          "ingredients": [
+            {
+              "name": "Beef Tenderloin",
+              "amount": 200,
+              "measurement": "grams"
+            },
+            {
+              "name": "Butter",
+              "amount": 2,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Garlic",
+              "amount": 2,
+              "measurement": "cloves"
+            },
+            {
+              "name": "Rosemary",
+              "amount": 2,
+              "measurement": "sprigs"
+            }
+          ]
+        },
+        {
+          "name": "Salmon Steak",
+          "price": 16.50,
+          "vat": 0.09,
+          "fullPrice": 18.00,
+          "ingredients": [
+            {
+              "name": "Salmon Fillet",
+              "amount": 150,
+              "measurement": "grams"
+            },
+            {
+              "name": "Lemon Juice",
+              "amount": 1,
+              "measurement": "tablespoon"
+            },
+            {
+              "name": "Dill",
+              "amount": 2,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Salt",
+              "amount": 0.25,
+              "measurement": "teaspoon"
+            }
+          ]
+        },
+        {
+          "name": "Pork Tenderloin",
+          "price": 18.75,
+          "vat": 0.09,
+          "fullPrice": 20.45,
+          "ingredients": [
+            {
+              "name": "Pork Tenderloin",
+              "amount": 250,
+              "measurement": "grams"
+            },
+            {
+              "name": "Mustard",
+              "amount": 2,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Honey",
+              "amount": 1,
+              "measurement": "tablespoon"
+            },
+            {
+              "name": "Thyme",
+              "amount": 1,
+              "measurement": "teaspoon"
+            }
+          ]
+        },
+        {
+          "name": "Lamb Chops",
+          "price": 28.9,
+          "vat": 0.09,
+          "fullPrice": 31.50,
+          "ingredients": [
+            {
+              "name": "Lamb Chops",
+              "amount": 4,
+              "measurement": "pieces"
+            },
+            {
+              "name": "Garlic",
+              "amount": 3,
+              "measurement": "cloves"
+            },
+            {
+              "name": "Rosemary",
+              "amount": 3,
+              "measurement": "sprigs"
+            },
+            {
+              "name": "Red Wine",
+              "amount": 0.25,
+              "measurement": "cup"
+            }
+          ]
+        },
+        {
+          "name": "Vegetarian Risotto",
+          "price": 12.5,
+          "vat": 0.09,
+          "fullPrice": 13.65,
+          "ingredients": [
+            {
+              "name": "Arborio Rice",
+              "amount": 1,
+              "measurement": "cup"
+            },
+            {
+              "name": "Vegetable Broth",
+              "amount": 4,
+              "measurement": "cups"
+            },
+            {
+              "name": "Mushrooms",
+              "amount": 100,
+              "measurement": "grams"
+            },
+            {
+              "name": "Parmesan Cheese",
+              "amount": 0.5,
+              "measurement": "cup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuName": "Soups",
+      "menuDescription": "Delicious and comforting soups",
+      "menuPicPath": "images/",
+      "menuPicName": "soups.jpg",
+      "menuItems": [
+        {
+          "name": "Borch Soup",
+          "price": 6.25,
+          "vat": 0.09,
+          "fullPrice": 6.80,
+          "ingredients": [
+            {
+              "name": "Beets",
+              "amount": 2,
+              "measurement": "medium"
+            },
+            {
+              "name": "Cabbage",
+              "amount": 0.25,
+              "measurement": "head"
+            },
+            {
+              "name": "Beef Broth",
+              "amount": 6,
+              "measurement": "cups"
+            },
+            {
+              "name": "Sour Cream",
+              "amount": 2,
+              "measurement": "tablespoons"
+            }
+          ]
+        },
+        {
+          "name": "Creamy Tomato and Basil Soup",
+          "price": 7.7,
+          "vat": 0.09,
+          "fullPrice": 8.40,
+          "ingredients": [
+            {
+              "name": "Canned Tomatoes",
+              "amount": 28,
+              "measurement": "ounces"
+            },
+            {
+              "name": "Fresh Basil",
+              "amount": 0.25,
+              "measurement": "cup"
+            },
+            {
+              "name": "Vegetable Broth",
+              "amount": 4,
+              "measurement": "cups"
+            },
+            {
+              "name": "Heavy Cream",
+              "amount": 0.5,
+              "measurement": "cup"
+            }
+          ]
+        },
+        {
+          "name": "Salmon Soup",
+          "price": 12.5,
+          "vat": 0.09,
+          "fullPrice": 13.65,
+          "ingredients": [
+            {
+              "name": "Salmon Fillet",
+              "amount": 300,
+              "measurement": "grams"
+            },
+            {
+              "name": "Potatoes",
+              "amount": 2,
+              "measurement": "medium"
+            },
+            {
+              "name": "Carrots",
+              "amount": 2,
+              "measurement": "medium"
+            },
+            {
+              "name": "Fish Broth",
+              "amount": 6,
+              "measurement": "cups"
+            }
+          ]
+        },
+        {
+          "name": "Mushroom Cream Soup",
+          "price": 8.15,
+          "vat": 0.09,
+          "fullPrice": 8.90,
+          "ingredients": [
+            {
+              "name": "Mushrooms",
+              "amount": 500,
+              "measurement": "grams"
+            },
+            {
+              "name": "Onion",
+              "amount": 1,
+              "measurement": "medium"
+            },
+            {
+              "name": "Vegetable Broth",
+              "amount": 4,
+              "measurement": "cups"
+            },
+            {
+              "name": "Cream",
+              "amount": 1,
+              "measurement": "cup"
+            }
+          ]
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "price": 6.9,
+          "vat": 0.09,
+          "fullPrice": 7.60,
+          "ingredients": [
+            {
+              "name": "Chicken Breast",
+              "amount": 1,
+              "measurement": "pound"
+            },
+            {
+              "name": "Egg Noodles",
+              "amount": 8,
+              "measurement": "ounces"
+            },
+            {
+              "name": "Carrots",
+              "amount": 2,
+              "measurement": "medium"
+            },
+            {
+              "name": "Celery Stalks",
+              "amount": 2,
+              "measurement": "stalks"
+            },
+            {
+              "name": "Chicken Broth",
+              "amount": 8,
+              "measurement": "cups"
+            }
+          ]
+        },
+        {
+          "name": "French Onion Soup",
+          "price": 7.5,
+          "vat": 0.09,
+          "fullPrice": 8.20,
+          "ingredients": [
+            {
+              "name": "Onions",
+              "amount": 3,
+              "measurement": "large"
+            },
+            {
+              "name": "Beef Broth",
+              "amount": 6,
+              "measurement": "cups"
+            },
+            {
+              "name": "Butter",
+              "amount": 4,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Baguette Slices",
+              "amount": 6,
+              "measurement": "slices"
+            },
+            {
+              "name": "Gruyere Cheese",
+              "amount": 1,
+              "measurement": "cup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuName": "Drinks",
+      "menuDescription": "A variety of refreshing beverages",
+      "menuPicPath": "images/",
+      "menuPicName": "drinks.jpg",
+      "menuItems": [
+        {
+          "name": "Coca-Cola",
+          "price": 2.5,
+          "vat": 0.09,
+          "fullPrice": 2.75,
+          "ingredients": [
+            {
+              "name": "Coca-Cola",
+              "amount": 12,
+              "measurement": "oz can"
+            }
+          ]
+        },
+        {
+          "name": "Sprite",
+          "price": 2.5,
+          "vat": 0.09,
+          "fullPrice": 2.75,
+          "ingredients": [
+            {
+              "name": "Sprite",
+              "amount": 12,
+              "measurement": "oz can"
+            }
+          ]
+        },
+        {
+          "name": "Orange Juice",
+          "price": 3.5,
+          "vat": 0.09,
+          "fullPrice": 3.80,
+          "ingredients": [
+            {
+              "name": "Orange Juice",
+              "amount": 8,
+              "measurement": "oz glass"
+            }
+          ]
+        },
+        {
+          "name": "Iced Tea",
+          "price": 3.00,
+          "vat": 0.09,
+          "fullPrice": 3.30,
+          "ingredients": [
+            {
+              "name": "Black Tea",
+              "amount": 2,
+              "measurement": "tea bags"
+            },
+            {
+              "name": "Water",
+              "amount": 8,
+              "measurement": "oz"
+            },
+            {
+              "name": "Ice",
+              "amount": 1,
+              "measurement": "cup"
+            }
+          ]
+        },
+        {
+          "name": "Lemonade",
+          "price": 2.75,
+          "vat": 0.09,
+          "fullPrice": 3.00,
+          "ingredients": [
+            {
+              "name": "Lemon Juice",
+              "amount": 2,
+              "measurement": "oz"
+            },
+            {
+              "name": "Sugar",
+              "amount": 2,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Water",
+              "amount": 8,
+              "measurement": "oz"
+            }
+          ]
+        },
+        {
+          "name": "Espresso",
+          "price": 4.00,
+          "vat": 0.09,
+          "fullPrice": 4.40,
+          "ingredients": [
+            {
+              "name": "Espresso Beans",
+              "amount": 2,
+              "measurement": "shots"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "price": 5.00,
+          "vat": 0.21,
+          "fullPrice": 6.05,
+          "ingredients": [
+            {
+              "name": "Beer",
+              "amount": 12,
+              "measurement": "oz bottle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuName": "Sides",
+      "menuDescription": "Delicious additions to your meal",
+      "menuPicPath": "images/",
+      "menuPicName": "sides.jpeg",
+      "menuItems": [
+        {
+          "name": "French Fries",
+          "price": 3.5,
+          "vat": 0.09,
+          "fullPrice": 3.85,
+          "ingredients": [
+            {
+              "name": "Potatoes",
+              "amount": 1,
+              "measurement": "medium"
+            },
+            {
+              "name": "Vegetable Oil",
+              "amount": 2,
+              "measurement": "cups"
+            },
+            {
+              "name": "Salt",
+              "amount": 0.5,
+              "measurement": "teaspoon"
+            }
+          ]
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 4.00,
+          "vat": 0.09,
+          "fullPrice": 4.40,
+          "ingredients": [
+            {
+              "name": "Baguette",
+              "amount": 6,
+              "measurement": "slices"
+            },
+            {
+              "name": "Butter",
+              "amount": 4,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Garlic",
+              "amount": 3,
+              "measurement": "cloves"
+            },
+            {
+              "name": "Parsley",
+              "amount": 2,
+              "measurement": "tablespoons"
+            }
+          ]
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 5.5,
+          "vat": 0.09,
+          "fullPrice": 6.00,
+          "ingredients": [
+            {
+              "name": "Mozzarella Cheese",
+              "amount": 8,
+              "measurement": "oz"
+            },
+            {
+              "name": "Breadcrumbs",
+              "amount": 1,
+              "measurement": "cup"
+            },
+            {
+              "name": "Egg",
+              "amount": 2,
+              "measurement": "large"
+            },
+            {
+              "name": "Vegetable Oil",
+              "amount": 2,
+              "measurement": "cups"
+            }
+          ]
+        },
+        {
+          "name": "Chicken Wings",
+          "price": 6.75,
+          "vat": 0.09,
+          "fullPrice": 7.40,
+          "ingredients": [
+            {
+              "name": "Chicken Wings",
+              "amount": 1,
+              "measurement": "pound"
+            },
+            {
+              "name": "Hot Sauce",
+              "amount": 0.25,
+              "measurement": "cup"
+            },
+            {
+              "name": "Butter",
+              "amount": 2,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Garlic Powder",
+              "amount": 1,
+              "measurement": "teaspoon"
+            }
+          ]
+        },
+        {
+          "name": "Onion Rings",
+          "price": 4.25,
+          "vat": 0.09,
+          "fullPrice": 4.65,
+          "ingredients": [
+            {
+              "name": "Onions",
+              "amount": 2,
+              "measurement": "large"
+            },
+            {
+              "name": "Flour",
+              "amount": 1,
+              "measurement": "cup"
+            },
+            {
+              "name": "Egg",
+              "amount": 1,
+              "measurement": "large"
+            },
+            {
+              "name": "Breadcrumbs",
+              "amount": 1,
+              "measurement": "cup"
+            },
+            {
+              "name": "Vegetable Oil",
+              "amount": 2,
+              "measurement": "cups"
+            }
+          ]
+        },
+        {
+          "name": "Coleslaw",
+          "price": 3.00,
+          "vat": 0.09,
+          "fullPrice": 3.3,
+          "ingredients": [
+            {
+              "name": "Cabbage",
+              "amount": 4,
+              "measurement": "cups"
+            },
+            {
+              "name": "Carrot",
+              "amount": 1,
+              "measurement": "large"
+            },
+            {
+              "name": "Mayonnaise",
+              "amount": 0.5,
+              "measurement": "cup"
+            },
+            {
+              "name": "Vinegar",
+              "amount": 2,
+              "measurement": "tablespoons"
+            }
+          ]
+        },
+        {
+          "name": "Mashed Potatoes",
+          "price": 3.75,
+          "vat": 0.09,
+          "fullPrice": 4.10,
+          "ingredients": [
+            {
+              "name": "Potatoes",
+              "amount": 2,
+              "measurement": "pounds"
+            },
+            {
+              "name": "Milk",
+              "amount": 1,
+              "measurement": "cup"
+            },
+            {
+              "name": "Butter",
+              "amount": 4,
+              "measurement": "tablespoons"
+            },
+            {
+              "name": "Salt",
+              "amount": 0.5,
+              "measurement": "teaspoon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

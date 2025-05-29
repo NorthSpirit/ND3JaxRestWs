@@ -1,0 +1,26 @@
+{
+    "totalPrice": 0.0,
+    "status": "PENDING",
+    "customerName": "Linas Jur",
+    "timeStamp": "2024-01-01T14:12:00",
+    "foodItems": [
+        {
+            "name": "Goose",
+            "price": 5.99,
+            "vat": 0.21,
+            "fullPrice": 7.25,
+            "ingredients": [
+                {
+                    "name": "Goose",
+                    "measurement": "pcs",
+                    "amount": 1
+                },
+                {
+                    "name": "Bun",
+                    "measurement": "pcs",
+                    "amount": 1
+                }
+            ]
+        }
+    ]
+}

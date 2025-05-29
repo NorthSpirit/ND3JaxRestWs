@@ -1,0 +1,31 @@
+{
+  "foodMenuList": [
+    {
+      "menuName": "Breakfast",
+      "menuItems": [
+        {
+          "name": "Pancakes",
+          "price": 6.99,
+          "vat": 0.09,
+          "fullPrice": 7.62,
+          "ingredients": []
+        },
+        {
+          "name": "Omelette",
+          "price": 7.50,
+          "vat": 0.09,
+          "fullPrice": 8.18,
+          "ingredients": []
+        }
+      ],
+      "links": [
+        {
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+    }
+  ]
+}

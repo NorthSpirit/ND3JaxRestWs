@@ -1,0 +1,32 @@
+{
+  "foodOrderList": [
+    {
+      "id": 1,
+      "totalPrice": 25.98,
+      "status": "PLACED",
+      "customerName": "Test Customer",
+      "timeStamp": "2025-05-10T17:00:00",
+      "foodItems": [
+        {
+          "name": "Test Item 1",
+          "price": 10.00,
+          "vat": 0.21,
+          "fullPrice": 12.10,
+          "ingredients": []
+        },
+        {
+          "name": "Test Item 2",
+          "price": 15.98,
+          "vat": 0.21,
+          "fullPrice": 19.34,
+          "ingredients": []
+        }
+      ],
+      "links": []
+    }
+  ],
+  "links": [
+    {
+    }
+  ]
+}

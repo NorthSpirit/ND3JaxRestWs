@@ -1,0 +1,64 @@
+{
+  "foodOrderList": [
+    {
+      "id": 1,
+      "totalPrice": 27.49,
+      "status": "ordered",
+      "customerName": "Mantas Jurevicius",
+      "timeStamp": "2025-04-19T13:37:00",
+      "foodItems": [
+        {
+          "name": "Pizza Margherita",
+          "price": 12.99,
+          "vat": 0.21,
+          "fullPrice": 15.72,
+          "ingredients": [
+            {
+              "name": "Dough",
+              "measurement": "grams",
+              "amount": 250
+            },
+            {
+              "name": "Tomato Sauce",
+              "measurement": "ml",
+              "amount": 100
+            },
+            {
+              "name": "Mozzarella Cheese",
+              "measurement": "grams",
+              "amount": 150
+            }
+          ]
+        },
+        {
+          "name": "Pasta Carbonara",
+          "price": 14.50,
+          "vat": 0.21,
+          "fullPrice": 17.55,
+          "ingredients": [
+            {
+              "name": "Spaghetti",
+              "measurement": "grams",
+              "amount": 200
+            },
+            {
+              "name": "Egg",
+              "measurement": "pieces",
+              "amount": 2
+            },
+            {
+              "name": "Guanciale",
+              "measurement": "grams",
+              "amount": 50
+            },
+            {
+              "name": "Pecorino Romano Cheese",
+              "measurement": "grams",
+              "amount": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
